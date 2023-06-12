@@ -286,7 +286,7 @@ button.normal {
     justify-content: center;
     align-items: flex-start;
     background-image: url("img/banner/model_1.jpeg");
-    min-width: 500px;
+    width: 40%;
     height: 50vh;
     background-size: cover;
     background-position:center ;
