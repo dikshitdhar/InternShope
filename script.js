@@ -9,5 +9,5 @@ cons = addToCart = () => {
 
 cons = checkout=()=> {
     window.alert("order has been placed")
-    location.href='HTML.html'
+    location.href='index.html'
 }
